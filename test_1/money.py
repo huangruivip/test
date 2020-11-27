@@ -4,5 +4,3 @@ saved_monye = 1000
 #have_money = False
 have_money = True
 
-
-print(111)
