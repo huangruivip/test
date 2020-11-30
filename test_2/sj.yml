@@ -1,0 +1,14 @@
+dog1:
+  name : 泰迪
+  colour : 棕色
+  age : 5
+  gender : 公
+  hair : 短毛
+
+
+cat1:
+  name : 加菲
+  colour : 棕色
+  age : 5
+  gender : 母
+  hair : 长毛
